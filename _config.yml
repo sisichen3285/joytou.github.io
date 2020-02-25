@@ -13,8 +13,8 @@ author: Joytou Wu
 owner_name: Joytou Wu
 
 #Server
-url: https://joytou.net
-github: https://github.com/joytou/
+url: https://sisichen3285.github.io
+github: https://sisichen3285.github.io
 baseurl: ""
 dnsPrefetch: "on"
 #dnsPrefetch: "off" if don't want use dns-prefetch
@@ -23,8 +23,8 @@ dns:
       - "//dns17.hichina.com"
       
 #Github announce Settings
-github_username: joytou
-github_repo: joytou.github.io
+github_username: sisichen3285
+github_repo: sisichen3285.github.io
 github_label: announcement
 
 #Page settings
